@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.minifound.com/thb.html"
+      },
+      "urls": [ "http://www.minifound.com/thb.html" ]
+   },
+   "description": "\u6DD8\u6D77\u62A5\u662F\u6DD8\u5B9D\u6D77\u62A5\u7684\u7B80\u79F0\uFF0C\u5728\u8FD9\u91CC\u4F60\u53EF\u4EE5\u627E\u5230\u6700\u8BE6\u7EC6\u7684\u65F6\u5C1A\u642D\u914D\u7A7F\u8863\u4FE1\u606F\u3002",
+   "icons": {
+      "128": "icon128.png",
+      "48": "icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCqVafuw6ZyOZ69SpG9OGo/c9RMO3TgKqKZYTYg/mvr+fz2XL3tIymosrLUvecy/tdIs6At3y0PeX8RP5iNc0VWq4riEqEUPeJfytCi+fWceDndq5DYzvalcYUeHXu2xPR2fWXzGY4AmGYKmfyD6xvUV0LKlsltj+9uR+h7KFbklwIDAQAB",
+   "name": "\u6DD8\u6D77\u62A5",
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.3"
+}
